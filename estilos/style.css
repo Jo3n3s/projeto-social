@@ -16,12 +16,11 @@ html, body {
 main {
     position: relative;
     height: 100vh; 
-    background-color: black;
+
 }
 
 body {
-    background: url(../imagens/fundo-madeira.jpg) no-repeat top center;
-    background-size: cover;
+    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;   background-size: cover;
     background-attachment: fixed;
 }
 
